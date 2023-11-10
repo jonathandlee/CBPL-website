@@ -1,6 +1,12 @@
 # Cbpl
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
+This repository acts as both a hub for contribution and a way to visualize the progress of the website. [A static version of the current release version of the website can be accessed at this link](https://jonathandlee.github.io/CBPL-website/CBPL-website/), which is a great way to visualize our current progress and features. 
+
+## Contributing
+
+For those new to angular development, the typical readme contents with information on getting started with angular development, testing, etc are listed below. The codebase is structured as follows:
+The `main` branch is the development branch that you will want to clone for development purposes. From there, you can use node project manager `npm install` to install necessary dependencies, and view a development server version of the website using `ng serve`. Once you are satisfied with changes, make a pull request. 
+The `build` branch exists for the purposes of easy viewing of a static version on github pages. It is not recommended to make any changes to build; that's something I'll handle.
 
 ## Development server
 
